@@ -1,0 +1,7 @@
+Warmest Station(s):
+STATION_NAME  STN_ID
+MARBLE-BAR    4106      37.4
+
+Coolest Station(s):
+STATION_NAME          STN_ID
+CABRAMURRA-SMHEA-AWS  72161     13.42

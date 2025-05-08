@@ -1,0 +1,4 @@
+Station(s) with the Largest Temperature Range (24.45°C):
+                             min    max  range
+STATION_NAME       STN_ID                     
+BOURKE-AIRPORT-AWS 48245   18.53  42.98  24.45
