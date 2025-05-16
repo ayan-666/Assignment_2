@@ -1,6 +1,6 @@
 import turtle
 
-def cheker(num):
+def cheker(num): #Erro Hadeling
     try:
         float_num = abs(float(num))
     except ValueError:
